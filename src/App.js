@@ -39,7 +39,7 @@ info(name){
     return<Calculator/>;
       } else if(name == "Profile"){
     //display menu profile
-    return <Profile/>;
+    return <h2><Profile nama="Rapunzel"/></h2>;
   }else {
     //display default
     return(
