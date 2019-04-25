@@ -1,14 +1,14 @@
 {
-  "main.css": "/react-js-baru/static/css/main.0fc88454.chunk.css",
-  "main.js": "/react-js-baru/static/js/main.8ffdba1d.chunk.js",
-  "main.js.map": "/react-js-baru/static/js/main.8ffdba1d.chunk.js.map",
-  "runtime~main.js": "/react-js-baru/static/js/runtime~main.50119324.js",
-  "runtime~main.js.map": "/react-js-baru/static/js/runtime~main.50119324.js.map",
-  "static/js/2.548e0644.chunk.js": "/react-js-baru/static/js/2.548e0644.chunk.js",
-  "static/js/2.548e0644.chunk.js.map": "/react-js-baru/static/js/2.548e0644.chunk.js.map",
-  "index.html": "/react-js-baru/index.html",
-  "precache-manifest.b889b94a188895084033c1b4200d2a6f.js": "/react-js-baru/precache-manifest.b889b94a188895084033c1b4200d2a6f.js",
-  "service-worker.js": "/react-js-baru/service-worker.js",
-  "static/css/main.0fc88454.chunk.css.map": "/react-js-baru/static/css/main.0fc88454.chunk.css.map",
-  "static/media/flash.svg": "/react-js-baru/static/media/flash.6bad39b6.svg"
+  "main.css": "/reactku/static/css/main.0fc88454.chunk.css",
+  "main.js": "/reactku/static/js/main.06cd9f26.chunk.js",
+  "main.js.map": "/reactku/static/js/main.06cd9f26.chunk.js.map",
+  "runtime~main.js": "/reactku/static/js/runtime~main.9d61d1b2.js",
+  "runtime~main.js.map": "/reactku/static/js/runtime~main.9d61d1b2.js.map",
+  "static/js/2.548e0644.chunk.js": "/reactku/static/js/2.548e0644.chunk.js",
+  "static/js/2.548e0644.chunk.js.map": "/reactku/static/js/2.548e0644.chunk.js.map",
+  "index.html": "/reactku/index.html",
+  "precache-manifest.9d8d423b3ba975defdbffb69b54057cb.js": "/reactku/precache-manifest.9d8d423b3ba975defdbffb69b54057cb.js",
+  "service-worker.js": "/reactku/service-worker.js",
+  "static/css/main.0fc88454.chunk.css.map": "/reactku/static/css/main.0fc88454.chunk.css.map",
+  "static/media/flash.svg": "/reactku/static/media/flash.6bad39b6.svg"
 }
