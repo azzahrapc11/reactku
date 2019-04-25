@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/react-js-baru/static/js/runtime~main.50119324.js"
   },
   {
-    "revision": "aa9e047d21aecdb0fa01",
-    "url": "/react-js-baru/static/js/main.65fb9ecf.chunk.js"
+    "revision": "441bc790543f4db75096",
+    "url": "/react-js-baru/static/js/main.8ffdba1d.chunk.js"
   },
   {
     "revision": "9634a2804d5597ac62b3",
     "url": "/react-js-baru/static/js/2.548e0644.chunk.js"
   },
   {
-    "revision": "aa9e047d21aecdb0fa01",
+    "revision": "441bc790543f4db75096",
     "url": "/react-js-baru/static/css/main.0fc88454.chunk.css"
   },
   {
-    "revision": "f04b3520c420551b8565fb8c459833de",
+    "revision": "3370050c8d6d86108a7941786244e5e7",
     "url": "/react-js-baru/index.html"
   }
 ];
