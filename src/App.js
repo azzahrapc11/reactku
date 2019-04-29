@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import logo from './flash.svg';
 import './App.css';
+import toast from 'toasted-notes';
+import 'toasted-notes/src/styles.css';
 import Profile from './Profile.js';
 import Calculator from './Calculator.js';
 
@@ -16,6 +18,9 @@ class App extends Component {
       operator : null,
       hasil : null
     }
+    toast.notify("Assalamualaikum people", {
+      duration: 3000, position: 'top'
+    });
   }
 
   renderHasil(){
