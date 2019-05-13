@@ -4,6 +4,7 @@ import './Custom.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+
 const items = [
     {
         name  : 'Mickey Mouse',
@@ -35,6 +36,11 @@ const items = [
         color : 'Peach',
         img   : '',
     },
+    {
+        name  : 'API',
+        color : 'Purple',
+    },
+    
     
 
 ];

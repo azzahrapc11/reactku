@@ -5,6 +5,7 @@ import toast from 'toasted-notes';
 import 'toasted-notes/src/styles.css';
 import Profile from './Profile.js';
 import Calculator from './Calculator.js';
+import './Style.css';
 
 class App extends Component {
   constructor(props){
